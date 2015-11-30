@@ -12,7 +12,7 @@ public class CarteSalle extends CarteJoueur {
     public CarteSalle() {
     }
 
-    /**
+    
      * 
      */
     private salle nom;
